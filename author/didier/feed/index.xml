@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>didier</title>
+	<atom:link href="http://localhost/wordpress9/author/didier/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 05 Jul 2022 11:26:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>sign up</title>
+		<link>./../../../2022/07/05/sign-up/index.html</link>
+					<comments>./../../../2022/07/05/sign-up/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[didier]]></dc:creator>
+		<pubDate>Tue, 05 Jul 2022 11:26:24 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=297</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="wpforms-container wpforms-container-full" id="wpforms-227"><form id="wpforms-form-227" class="wpforms-validate wpforms-form wpforms-ajax-form" data-formid="227" method="post" enctype="multipart/form-data" action="/wordpress9/author/didier/feed/" data-token="334465443c610c24c8b0ea2458baf483"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div class="wpforms-field-container"><div id="wpforms-227-field_0-container" class="wpforms-field wpforms-field-name" data-field-id="0"><label class="wpforms-field-label" for="wpforms-227-field_0">Name <span class="wpforms-required-label">*</span></label><div class="wpforms-field-row wpforms-field-medium"><div class="wpforms-field-row-block wpforms-first wpforms-one-half"><input type="text" id="wpforms-227-field_0" class="wpforms-field-name-first wpforms-field-required" name="wpforms[fields][0][first]" required><label for="wpforms-227-field_0" class="wpforms-field-sublabel after ">First</label></div><div class="wpforms-field-row-block wpforms-one-half"><input type="text" id="wpforms-227-field_0-last" class="wpforms-field-name-last wpforms-field-required" name="wpforms[fields][0][last]" required><label for="wpforms-227-field_0-last" class="wpforms-field-sublabel after ">Last</label></div></div></div><div id="wpforms-227-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><label class="wpforms-field-label" for="wpforms-227-field_1">Email <span class="wpforms-required-label">*</span></label><div class="wpforms-field-row wpforms-field-medium"><div class="wpforms-field-row-block wpforms-one-half wpforms-first"><input type="email" id="wpforms-227-field_1" class="wpforms-field-required wpforms-field-email-primary" name="wpforms[fields][1][primary]" required><label for="wpforms-227-field_1" class="wpforms-field-sublabel after ">Email</label></div><div class="wpforms-field-row-block wpforms-one-half"><input type="email" id="wpforms-227-field_1-secondary" class="wpforms-field-email-secondary wpforms-field-required" data-rule-confirm="#wpforms-227-field_1" name="wpforms[fields][1][secondary]" required><label for="wpforms-227-field_1-secondary" class="wpforms-field-sublabel after ">Confirm Email</label></div></div></div></div><div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="227"><input type="hidden" name="wpforms[author]" value="1"><button type="submit" name="wpforms[submit]" id="wpforms-submit-227" class="wpforms-submit" data-alt-text="Sending..." data-submit-text="Registration" aria-live="assertive" value="wpforms-submit">Registration</button><img src="./../../../wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg" class="wpforms-submit-spinner" style="display: none;" width="26" height="26" alt=""></div></form></div>  <!-- .wpforms-container -->
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2022/07/05/sign-up/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Teaching &#038; Academics</title>
+		<link>./../../../2022/06/27/teaching-academics/index.html</link>
+					<comments>./../../../2022/06/27/teaching-academics/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[didier]]></dc:creator>
+		<pubDate>Mon, 27 Jun 2022 13:05:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=214</guid>
+
+					<description><![CDATA[After completing this module you will be able to: Identify the four different domains of learning Identify two main learning theories  Distinguish between &#8216;curriculum learning&#8217; and &#8216;incidental learning&#8217; in the classroom Choose an everyday example of &#8216;educational readiness&#8217; from a list of examples Define &#8216;usefulness&#8217; or &#8216;transfer&#8217; in relation to learning After completing this module [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="214" class="elementor elementor-214">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-47fe9f7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="47fe9f7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8eae3bb" data-id="8eae3bb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-552b205 elementor-widget elementor-widget-image" data-id="552b205" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.6 - 08-06-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="290" height="174" src="./../../../wp-content/uploads/2022/06/education.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-38c263e" data-id="38c263e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b2ecfed elementor-widget elementor-widget-image" data-id="b2ecfed" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="640" height="312" src="./../../../wp-content/uploads/2022/06/skills-g51572de75_640.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../../../wp-content/uploads/2022/06/skills-g51572de75_640.jpg 640w, ./../../../wp-content/uploads/2022/06/skills-g51572de75_640-300x146.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-54f4fbc" data-id="54f4fbc" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-92d0e40 elementor-widget elementor-widget-image" data-id="92d0e40" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="318" height="159" src="./../../../wp-content/uploads/2022/06/traning.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../../../wp-content/uploads/2022/06/traning.jpg 318w, ./../../../wp-content/uploads/2022/06/traning-300x150.jpg 300w" sizes="(max-width: 318px) 100vw, 318px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9fd9033 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9fd9033" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-32990b0" data-id="32990b0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-78143ea elementor-widget elementor-widget-text-editor" data-id="78143ea" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.6 - 08-06-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<div class="head editable ng-pristine ng-untouched ng-valid ng-binding ng-scope ng-not-empty None background"><h3 class="background">After completing this module you will be able to:</h3><ul class=""><li class="">Identify the four different domains of learning</li><li class="">Identify two main learning theories </li><li class="">Distinguish between &#8216;curriculum learning&#8217; and &#8216;incidental learning&#8217; in the classroom</li><li class="">Choose an everyday example of &#8216;educational readiness&#8217; from a list of examples</li><li class="">Define &#8216;usefulness&#8217; or &#8216;transfer&#8217; in relation to learning</li></ul></div>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-662d1d9" data-id="662d1d9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ad93856 elementor-widget elementor-widget-text-editor" data-id="ad93856" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<div class="head editable ng-pristine ng-untouched ng-valid ng-binding ng-scope ng-not-empty None background"><h3>After completing this module you will be able to:</h3><ul class=""><li class="">Identify the different purposes and functions which communication serves in the classroom</li><li class="">Identify the different types of communications</li><li class="">Understand and define the term classroom register</li><li class="">Identify the differences between how a teacher uses communication and how a student uses communication</li><li class="">Manage different situations in class through applying the different functions and types of communication</li></ul></div>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d5fc7b0" data-id="d5fc7b0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-42413ec elementor-widget elementor-widget-text-editor" data-id="42413ec" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h3 class="editable p-asset ng-pristine ng-untouched ng-valid ng-binding ng-scope ng-not-empty None">Upon successful completion of this module, you should be able to:</h3><div><ul class=""><li class="">Discuss the roles of a trainer</li><li class="">Recognize the primary goal of a training program</li><li class="">Examine the various dimensions of a great workplace</li><li class="">Outline the requirements for an effective training system</li><li class="">Apply the various training and development strategies</li><li class="">Appreciate the relationship among training, education, and development</li><li class="">Identify the various learning principles for different types of learners</li></ul></div>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2022/06/27/teaching-academics/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Course</title>
+		<link>./../../../2022/06/26/course/index.html</link>
+		
+		<dc:creator><![CDATA[didier]]></dc:creator>
+		<pubDate>Sun, 26 Jun 2022 13:51:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=22</guid>
+
+					<description><![CDATA[WEB DEVELOPMENT SOFTWARE DEVELOPMENT]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22" class="elementor elementor-22">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-bf781c9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bf781c9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3bac5bb" data-id="3bac5bb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ef22cf0 elementor-button-info elementor-widget elementor-widget-button" data-id="ef22cf0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.w3schools.com/whatis/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-pulse-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">WEB DEVELOPMENT</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e33ac0c" data-id="e33ac0c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0d12090 elementor-widget elementor-widget-button" data-id="0d12090" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.ibm.com/topics/software-development#:~:text=Software%20development%20refers%20to%20a,hardware%20and%20makes%20computers%20programmable." class="elementor-button-link elementor-button elementor-size-sm elementor-animation-wobble-to-top-right" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">SOFTWARE DEVELOPMENT</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a7931ca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a7931ca" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4a7a57c" data-id="4a7a57c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f30f389 elementor-widget elementor-widget-image" data-id="f30f389" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="310" height="163" src="./../../../wp-content/uploads/2022/06/telechargement.jpg" class="elementor-animation-wobble-skew attachment-full size-full" alt="" loading="lazy" srcset="./../../../wp-content/uploads/2022/06/telechargement.jpg 310w, ./../../../wp-content/uploads/2022/06/telechargement-300x158.jpg 300w" sizes="(max-width: 310px) 100vw, 310px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7e06172" data-id="7e06172" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-26243ad elementor-widget elementor-widget-image" data-id="26243ad" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="627" height="627" src="./../../../wp-content/uploads/2022/06/SDLC_BWC.png" class="elementor-animation-wobble-bottom attachment-full size-full" alt="" loading="lazy" srcset="./../../../wp-content/uploads/2022/06/SDLC_BWC.png 627w, ./../../../wp-content/uploads/2022/06/SDLC_BWC-300x300.png 300w, ./../../../wp-content/uploads/2022/06/SDLC_BWC-150x150.png 150w" sizes="(max-width: 627px) 100vw, 627px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
